@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Name: FloatingMenu
+Description: A floating Menu similar a Kaggle Kernel
+Link: readme.md
+Icon: icon.png
+Main: main.js
+Compatibility: 4.x
