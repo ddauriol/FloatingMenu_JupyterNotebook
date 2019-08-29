@@ -1,4 +1,5 @@
-// Define Variable
+// Version for load script src
+
 var divSelected
 var divSelectedInput
 var divFloatingMenu
