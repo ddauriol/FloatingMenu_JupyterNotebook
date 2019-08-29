@@ -19,7 +19,7 @@ Current function:
 Jupyter Notebook
 =========
 
-For direct insert code in input to Jupyter Notebook use: 
+To use directly in JupyterNotebook, simply enter the code below:: 
 
 ```javascript
 
